@@ -91,15 +91,17 @@
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(175, 13);
+            this.label1.Size = new System.Drawing.Size(430, 31);
             this.label1.TabIndex = 1;
             this.label1.Text = "Калькулятор квадратных матриц";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // numericUpDown3
             // 
+            this.numericUpDown3.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown3.Location = new System.Drawing.Point(21, 104);
             this.numericUpDown3.Name = "numericUpDown3";
             this.numericUpDown3.Size = new System.Drawing.Size(54, 20);
@@ -108,6 +110,7 @@
             // 
             // numericUpDown4
             // 
+            this.numericUpDown4.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown4.Location = new System.Drawing.Point(21, 130);
             this.numericUpDown4.Name = "numericUpDown4";
             this.numericUpDown4.Size = new System.Drawing.Size(54, 20);
@@ -115,6 +118,7 @@
             // 
             // numericUpDown5
             // 
+            this.numericUpDown5.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown5.Location = new System.Drawing.Point(21, 156);
             this.numericUpDown5.Name = "numericUpDown5";
             this.numericUpDown5.Size = new System.Drawing.Size(54, 20);
@@ -122,6 +126,7 @@
             // 
             // numericUpDown6
             // 
+            this.numericUpDown6.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown6.Location = new System.Drawing.Point(81, 104);
             this.numericUpDown6.Name = "numericUpDown6";
             this.numericUpDown6.Size = new System.Drawing.Size(54, 20);
@@ -129,6 +134,7 @@
             // 
             // numericUpDown7
             // 
+            this.numericUpDown7.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown7.Location = new System.Drawing.Point(81, 130);
             this.numericUpDown7.Name = "numericUpDown7";
             this.numericUpDown7.Size = new System.Drawing.Size(54, 20);
@@ -136,6 +142,7 @@
             // 
             // numericUpDown8
             // 
+            this.numericUpDown8.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown8.Location = new System.Drawing.Point(81, 156);
             this.numericUpDown8.Name = "numericUpDown8";
             this.numericUpDown8.Size = new System.Drawing.Size(54, 20);
@@ -143,6 +150,7 @@
             // 
             // numericUpDown9
             // 
+            this.numericUpDown9.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown9.Location = new System.Drawing.Point(141, 104);
             this.numericUpDown9.Name = "numericUpDown9";
             this.numericUpDown9.Size = new System.Drawing.Size(54, 20);
@@ -150,6 +158,7 @@
             // 
             // numericUpDown10
             // 
+            this.numericUpDown10.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown10.Location = new System.Drawing.Point(141, 130);
             this.numericUpDown10.Name = "numericUpDown10";
             this.numericUpDown10.Size = new System.Drawing.Size(54, 20);
@@ -157,6 +166,7 @@
             // 
             // numericUpDown11
             // 
+            this.numericUpDown11.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown11.Location = new System.Drawing.Point(141, 156);
             this.numericUpDown11.Name = "numericUpDown11";
             this.numericUpDown11.Size = new System.Drawing.Size(54, 20);
@@ -164,6 +174,7 @@
             // 
             // numericUpDown12
             // 
+            this.numericUpDown12.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown12.Location = new System.Drawing.Point(412, 156);
             this.numericUpDown12.Name = "numericUpDown12";
             this.numericUpDown12.Size = new System.Drawing.Size(54, 20);
@@ -171,6 +182,7 @@
             // 
             // numericUpDown13
             // 
+            this.numericUpDown13.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown13.Location = new System.Drawing.Point(412, 130);
             this.numericUpDown13.Name = "numericUpDown13";
             this.numericUpDown13.Size = new System.Drawing.Size(54, 20);
@@ -178,6 +190,7 @@
             // 
             // numericUpDown14
             // 
+            this.numericUpDown14.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown14.Location = new System.Drawing.Point(412, 104);
             this.numericUpDown14.Name = "numericUpDown14";
             this.numericUpDown14.Size = new System.Drawing.Size(54, 20);
@@ -185,6 +198,7 @@
             // 
             // numericUpDown15
             // 
+            this.numericUpDown15.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown15.Location = new System.Drawing.Point(352, 156);
             this.numericUpDown15.Name = "numericUpDown15";
             this.numericUpDown15.Size = new System.Drawing.Size(54, 20);
@@ -192,6 +206,7 @@
             // 
             // numericUpDown16
             // 
+            this.numericUpDown16.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown16.Location = new System.Drawing.Point(352, 130);
             this.numericUpDown16.Name = "numericUpDown16";
             this.numericUpDown16.Size = new System.Drawing.Size(54, 20);
@@ -199,6 +214,7 @@
             // 
             // numericUpDown17
             // 
+            this.numericUpDown17.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown17.Location = new System.Drawing.Point(352, 104);
             this.numericUpDown17.Name = "numericUpDown17";
             this.numericUpDown17.Size = new System.Drawing.Size(54, 20);
@@ -206,6 +222,7 @@
             // 
             // numericUpDown18
             // 
+            this.numericUpDown18.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown18.Location = new System.Drawing.Point(292, 156);
             this.numericUpDown18.Name = "numericUpDown18";
             this.numericUpDown18.Size = new System.Drawing.Size(54, 20);
@@ -213,6 +230,7 @@
             // 
             // numericUpDown19
             // 
+            this.numericUpDown19.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown19.Location = new System.Drawing.Point(292, 130);
             this.numericUpDown19.Name = "numericUpDown19";
             this.numericUpDown19.Size = new System.Drawing.Size(54, 20);
@@ -220,6 +238,7 @@
             // 
             // numericUpDown20
             // 
+            this.numericUpDown20.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown20.Location = new System.Drawing.Point(292, 104);
             this.numericUpDown20.Name = "numericUpDown20";
             this.numericUpDown20.Size = new System.Drawing.Size(54, 20);
@@ -248,6 +267,7 @@
             // 
             // numericUpDown1
             // 
+            this.numericUpDown1.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown1.Location = new System.Drawing.Point(671, 156);
             this.numericUpDown1.Name = "numericUpDown1";
             this.numericUpDown1.Size = new System.Drawing.Size(54, 20);
@@ -255,6 +275,7 @@
             // 
             // numericUpDown2
             // 
+            this.numericUpDown2.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown2.Location = new System.Drawing.Point(671, 130);
             this.numericUpDown2.Name = "numericUpDown2";
             this.numericUpDown2.Size = new System.Drawing.Size(54, 20);
@@ -262,6 +283,7 @@
             // 
             // numericUpDown21
             // 
+            this.numericUpDown21.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown21.Location = new System.Drawing.Point(671, 104);
             this.numericUpDown21.Name = "numericUpDown21";
             this.numericUpDown21.Size = new System.Drawing.Size(54, 20);
@@ -269,6 +291,7 @@
             // 
             // numericUpDown22
             // 
+            this.numericUpDown22.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown22.Location = new System.Drawing.Point(611, 156);
             this.numericUpDown22.Name = "numericUpDown22";
             this.numericUpDown22.Size = new System.Drawing.Size(54, 20);
@@ -276,6 +299,7 @@
             // 
             // numericUpDown23
             // 
+            this.numericUpDown23.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown23.Location = new System.Drawing.Point(611, 130);
             this.numericUpDown23.Name = "numericUpDown23";
             this.numericUpDown23.Size = new System.Drawing.Size(54, 20);
@@ -283,6 +307,7 @@
             // 
             // numericUpDown24
             // 
+            this.numericUpDown24.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown24.Location = new System.Drawing.Point(611, 104);
             this.numericUpDown24.Name = "numericUpDown24";
             this.numericUpDown24.Size = new System.Drawing.Size(54, 20);
@@ -290,6 +315,7 @@
             // 
             // numericUpDown25
             // 
+            this.numericUpDown25.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown25.Location = new System.Drawing.Point(551, 156);
             this.numericUpDown25.Name = "numericUpDown25";
             this.numericUpDown25.Size = new System.Drawing.Size(54, 20);
@@ -297,6 +323,7 @@
             // 
             // numericUpDown26
             // 
+            this.numericUpDown26.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown26.Location = new System.Drawing.Point(551, 130);
             this.numericUpDown26.Name = "numericUpDown26";
             this.numericUpDown26.Size = new System.Drawing.Size(54, 20);
@@ -304,6 +331,7 @@
             // 
             // numericUpDown27
             // 
+            this.numericUpDown27.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.numericUpDown27.Location = new System.Drawing.Point(551, 104);
             this.numericUpDown27.Name = "numericUpDown27";
             this.numericUpDown27.Size = new System.Drawing.Size(54, 20);
@@ -358,6 +386,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.TransparencyKey = System.Drawing.Color.White;
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown4)).EndInit();
