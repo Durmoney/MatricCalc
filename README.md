@@ -1,0 +1,2 @@
+# MatricCalc
+Simple matrix calculator
